@@ -13,12 +13,12 @@
     "express": "^4.16.4"
   },
   "bugs":{
-    "url":"git+https://github.com/tylerjohnsonhockey/09-Note-Taker/issues"
+    "url":"git+https://github.com/tylerjohnsonhockey/09-Helpful-Note-Taker/issues"
   },
-  "homepage":"https://github.com/tylerjohnsonhockey/09-Note-Taker/master/README.md",
+  "homepage":"https://github.com/tylerjohnsonhockey/09-Helpful-Note-Taker/master/README.md",
   "keywords": [],
   "reposirtory":{
     "type":"git",
-    "url":"git+https://github.com/tylerjohnsonhockey/09-Note-Taker"
+    "url":"git+https://github.com/tylerjohnsonhockey/09-Helpful-Note-Taker"
   }
 }
